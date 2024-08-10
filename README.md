@@ -11,7 +11,8 @@ To find out more about the Azure landing zones reference implementation, please 
 ---
 
 ## Objective
-
+ This is my  new comment 
+ 
 The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture. It will continue to evolve alongside the Azure platform and is ultimately defined by the various design decisions that organizations must make to define their Azure journey.
 
 The Azure Landing Zones (Enterprise-Scale) architecture is modular by design and allows organizations to start with foundational landing zones that support their application portfolios, and the architecture enables organizations to start as small as needed and scale alongside their business requirements regardless of scale point.
